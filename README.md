@@ -4,13 +4,14 @@
 - Overview 
 - Live demo
 - Project Features
-- Section 1
+- Section 1 
 - Section 2
 - Section 3
 - Section 4
 - Design and styling
 - How to run
 - Folder structure
+- Presentation link
 ## Overview
 This project is a responsive travel landing page designed for mobile view. It highlights visually appealing destinations and showcases the travel agency's offerings in an elegant and modern layout. The site is divided into three main sections and includes a footer.
 
@@ -81,4 +82,5 @@ Contact: [fateemaab006@gmail.com]
  [[Github Profile](https://github.com/elevateHER)]
 
  ## License
- 
+ ## Presentation link
+[Presentation link](https://www.loom.com/share/20c6b37fb2ec475e9e852d5e1a2628c2?sid=955f7b97-7513-409c-b62b-6e590b723eea)
