@@ -95,7 +95,6 @@ body{
     margin-left: -20px;
 }
 .destination {
-    line-height: 44px;
     text-align: left;
     width: 180px;
     font-size: 8vw;
@@ -367,11 +366,10 @@ span{
  width: 52px;
  height: 19px;
  border: 0.7px;
- margin-left: 65px;
+ margin-left: 5px;
+ margin-bottom: -20px;
 }
-.last-para{
-    margin-left: 30px;
-}
+ 
 .immediately{
     margin-right: 170px;
     color: black;
@@ -405,9 +403,11 @@ span{
 .foot-info{
     font-family: "Urbanist";
     display: flex;
-    gap: 23px;
+    gap: 5px;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: -25px;
 }
 a{
     color: black;
